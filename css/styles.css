@@ -3,6 +3,9 @@ body{
     font-family: 'Arial';
     color: #000;
 }
+h1{
+    padding: 0;
+}
 .container{
     width: 70%;
     padding: 1em;
@@ -11,4 +14,12 @@ body{
 }
 p{
     text-decoration: dashed;
+}
+.header{
+    padding: 1rem;
+    background-color: darkgrey;
+}
+.titulo-articulo{
+    color: darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
